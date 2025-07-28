@@ -1,0 +1,26 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.egg-info/
+.Python
+env/
+.venv/
+venv/
+ENV/
+
+# Virtual environments
+.venv/
+.env/
+
+# Pyenv
+.pyenv/
+Include/
+Lib/
+Scripts/
+pyenv.cfg
+
+# Docker
+*.log
+*.pid
