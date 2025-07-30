@@ -24,3 +24,6 @@ pyenv.cfg
 # Docker
 *.log
 *.pid
+
+#mongodb
+.env
